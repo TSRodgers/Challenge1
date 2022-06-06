@@ -7,3 +7,5 @@ I started with first fixing the semantic tags in the html by changing select <di
 <img src="./screenshots/screenshot(3).png" />
 
 https://tsrodgers.github.io/Challenge1/
+
+https://github.com/TSRodgers/Challenge1
